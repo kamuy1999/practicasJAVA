@@ -2,7 +2,7 @@
 
 Ejercicios de JAVA de Johanna Alexis Lopez Vazquez. TM Grupo6
 
-*Este es el orden en que ralice los ejercios, lo que se encuentra entre parentesis es para redordarme a mi puntos claves o metodos que utilice para resolverlos, asi como notas* 
+*Este es el orden en que ralice los ejercios, lo que se encuentra entre parentesis es para recordarme a mi misma los puntos claves o metodos que utilice para resolverlos, asi como notas para seguir repasando* 
 
 Verificar si un año es bisiesto o no (se utiliza la regla de que un año es bisiesto si es divisible por 4, excepto si es divisible por 100 pero no por 400)
 
