@@ -12,3 +12,7 @@ Generar una secuencia de Fibonacci (en este codigo utilice una función recursiv
 Encontrar el máximo común divisor de dos números (en este codigo utilice el algoritmo de Euclides para calcular el MCD de dos números)
 
 Calcular el área de un círculo (en este codigo utilice la fórmula del área del círculo (A = π * r^2) para calcular el área)
+
+Encontrar el mínimo de tres números (en este codigo se comparan los tres números y para devolver al mínimo utilizando una serie de condicionales)
+
+
