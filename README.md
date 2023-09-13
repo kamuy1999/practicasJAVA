@@ -17,6 +17,9 @@ Calcular el número de dígitos en un número entero (este codigo convierte el n
 
 Calcular la suma de los dígitos de un número (este codigo utiliza un bucle while para extraer los dígitos uno por uno y sumarlos hasta que no queden dígitos por procesar)
 
+Verificar si un número es positivo, negativo o cero 
+
+
 
 
 
