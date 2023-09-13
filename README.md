@@ -13,4 +13,10 @@ Calcular el área de un círculo (en este codigo utilice la fórmula del área d
 
 Encontrar el mínimo de tres números (en este codigo se comparan los tres números y para devolver al mínimo utilizando una serie de condicionales)
 
+Calcular el número de dígitos en un número entero (este codigo convierte el número en una cadena y utiliza el método length() de la cadena para obtener la cantidad de dígitos en el número)
+
+Calcular la suma de los dígitos de un número (este codigo utiliza un bucle while para extraer los dígitos uno por uno y sumarlos hasta que no queden dígitos por procesar)
+
+
+
 
