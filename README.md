@@ -8,3 +8,5 @@ Verificar si un número es par o impar
 Calcular el número de dígitos en un número entero.
 
 Generar una secuencia de Fibonacci
+
+Encontrar el máximo común divisor de dos números
