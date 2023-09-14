@@ -1,6 +1,6 @@
-# practicasJAVA y PYTHON
+# practicas JAVA y PYTHON
 
->>>Ejercicios de JAVA de Johanna Alexis Lopez Vazquez. TM Grupo6<<<
+>>>Ejercicios de JAVA de Johanna Alexis Lopez Vazquez. TM Grupo6
 
 ----10/10----
 
@@ -26,7 +26,7 @@ Verificar si un número es positivo, negativo o cero
 
 Calcular el promedio de un arreglo de números (se utiliza un arreglo para almacenar los números ingresados por el usuario y luego calcular el promedio de esos números mediante un bucle)
 
->>>Ejercicios de PYTHON de Johanna Alexis Lopez Vazquez, TM Grupo6<<<
+>>>Ejercicios de PYTHON de Johanna Alexis Lopez Vazquez, TM Grupo6
 
 ----9/10----
 
