@@ -1,6 +1,8 @@
-# practicasJAVA
+# practicasJAVA y PYTHON
 
-Ejercicios de JAVA de Johanna Alexis Lopez Vazquez. TM Grupo6
+>>>Ejercicios de JAVA de Johanna Alexis Lopez Vazquez. TM Grupo6<<<
+
+----10/10----
 
 *Este es el orden en que ralice los ejercios, lo que se encuentra entre parentesis es para recordarme a mi misma los puntos claves o metodos que utilice para resolverlos, asi como notas para seguir repasando* 
 
@@ -23,4 +25,30 @@ Calcular la suma de los dígitos de un número (se utiliza un bucle while para e
 Verificar si un número es positivo, negativo o cero 
 
 Calcular el promedio de un arreglo de números (se utiliza un arreglo para almacenar los números ingresados por el usuario y luego calcular el promedio de esos números mediante un bucle)
+
+>>>Ejercicios de PYTHON de Johanna Alexis Lopez Vazquez, TM Grupo6<<<
+
+----9/10----
+
+Calcular el perímetro de un cuadrado
+
+Encontrar el mínimo y máximo de una lista de números
+
+Verificar si una cadena de texto contiene solo dígitos
+
+Calcular el factorial de un número utilizando una función recursiva
+
+Invertir una lista
+
+////*Calcular el producto de dos matrices* (este ejercicio no lo pude resolver)
+
+Verificar si una palabra es un anagrama de otra
+
+Encontrar el segundo elemento más grande en una lista
+
+Generar una lista de números primos en un rango dado
+
+Ordenar una lista de números de forma ascendente
+
+
 
